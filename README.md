@@ -6,6 +6,7 @@ This project is a full-stack web application developed using MERN stack (MongoDB
 
 
 Contributors
+
 Prabhat Kishor
 Prince Raj
 Ayush Prabhat
