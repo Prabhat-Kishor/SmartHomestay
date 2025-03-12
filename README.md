@@ -4,6 +4,12 @@
 
 This project is a full-stack web application developed using MERN stack (MongoDB, Express.js, React.js, Node.js). It provides the core functionality of a hotel booking website like aibnb or similar, allowing users to browse for accommodations, view details, make bookings, and manage their listings.
 
+
+Contributors
+Prabhat Kishor
+Prince Raj
+Ayush Prabhat
+
 ## Getting Started
 
 1. **Clone the Repository:**
